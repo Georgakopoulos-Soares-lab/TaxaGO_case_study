@@ -1,0 +1,530 @@
+GO Term ID	Name	Namespace	log(Odds Ratio)	Statistical significance
+GO:0009137	Purine nucleoside diphosphate catabolic process	Biological Process	0.629	6.19756e-3
+GO:0035088	Establishment or maintenance of apical/basal cell polarity	Biological Process	0.824	9.41440e-3
+GO:0005109	Frizzled binding	Molecular Function	1.341	4.91950e-2
+GO:0016310	Phosphorylation	Biological Process	1.276	6.19756e-3
+GO:0050769	Positive regulation of neurogenesis	Biological Process	0.782	6.19756e-3
+GO:0060485	Mesenchyme development	Biological Process	1.103	6.19756e-3
+GO:0022829	Wide pore channel activity	Molecular Function	1.771	1.32095e-2
+GO:0006644	Phospholipid metabolic process	Biological Process	0.326	9.41440e-3
+GO:0006090	Pyruvate metabolic process	Biological Process	0.566	6.19756e-3
+GO:0030833	Regulation of actin filament polymerization	Biological Process	0.735	9.41440e-3
+GO:0016410	N-acyltransferase activity	Molecular Function	1.148	6.19756e-3
+GO:0000502	Proteasome complex	Cellular Component	0.423	3.66115e-2
+GO:0043242	Negative regulation of protein-containing complex disassembly	Biological Process	0.769	1.64409e-2
+GO:0031462	Cul2-RING ubiquitin ligase complex	Cellular Component	1.420	1.64409e-2
+GO:0007600	Sensory perception	Biological Process	0.584	6.19756e-3
+GO:0003774	Cytoskeletal motor activity	Molecular Function	0.828	9.41440e-3
+GO:0050919	Negative chemotaxis	Biological Process	1.975	2.83444e-2
+GO:1902493	Acetyltransferase complex	Cellular Component	0.938	6.19756e-3
+GO:0071559	Response to transforming growth factor beta	Biological Process	0.978	9.41440e-3
+GO:0009135	Purine nucleoside diphosphate metabolic process	Biological Process	0.799	6.19756e-3
+GO:1990868	Response to chemokine	Biological Process	0.984	3.41455e-2
+GO:0016812	Hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	Molecular Function	3.052	4.19956e-2
+GO:0009185	Ribonucleoside diphosphate metabolic process	Biological Process	0.787	6.19756e-3
+GO:0015377	Chloride:monoatomic cation symporter activity	Molecular Function	1.849	4.19956e-2
+GO:0003018	Vascular process in circulatory system	Biological Process	1.478	6.19756e-3
+GO:0044877	Protein-containing complex binding	Molecular Function	0.517	3.66115e-2
+GO:0050767	Regulation of neurogenesis	Biological Process	0.485	6.19756e-3
+GO:0000123	Histone acetyltransferase complex	Cellular Component	0.988	6.19756e-3
+GO:0010720	Positive regulation of cell development	Biological Process	0.280	6.19756e-3
+GO:0071407	Cellular response to organic cyclic compound	Biological Process	0.430	4.45706e-2
+GO:0051094	Positive regulation of developmental process	Biological Process	0.623	6.19756e-3
+GO:0030202	Heparin metabolic process	Biological Process	1.619	2.55335e-2
+GO:0045229	External encapsulating structure organization	Biological Process	1.398	6.19756e-3
+GO:0032870	Cellular response to hormone stimulus	Biological Process	1.176	1.64409e-2
+GO:0009612	Response to mechanical stimulus	Biological Process	0.237	6.19756e-3
+GO:0004930	G protein-coupled receptor activity	Molecular Function	1.089	6.19756e-3
+GO:0006163	Purine nucleotide metabolic process	Biological Process	0.287	2.25945e-2
+GO:0008227	G protein-coupled amine receptor activity	Molecular Function	1.996	6.19756e-3
+GO:0004703	G protein-coupled receptor kinase activity	Molecular Function	2.516	6.19756e-3
+GO:0005886	Plasma membrane	Cellular Component	0.933	4.45706e-2
+GO:0005005	Transmembrane-ephrin receptor activity	Molecular Function	1.710	3.14368e-2
+GO:0060079	Excitatory postsynaptic potential	Biological Process	1.824	6.19756e-3
+GO:0016810	Hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	Molecular Function	1.559	9.41440e-3
+GO:0005030	Neurotrophin receptor activity	Molecular Function	0.819	6.19756e-3
+GO:0008277	Regulation of G protein-coupled receptor signaling pathway	Biological Process	0.806	6.19756e-3
+GO:2001236	Regulation of extrinsic apoptotic signaling pathway	Biological Process	0.501	6.19756e-3
+GO:0030427	Site of polarized growth	Cellular Component	1.595	1.64409e-2
+GO:0046914	Transition metal ion binding	Molecular Function	0.373	2.55335e-2
+GO:0043113	Receptor clustering	Biological Process	0.843	6.19756e-3
+GO:0031333	Negative regulation of protein-containing complex assembly	Biological Process	0.578	6.19756e-3
+GO:0098791	Golgi apparatus subcompartment	Cellular Component	0.346	9.41440e-3
+GO:0000146	Microfilament motor activity	Molecular Function	1.115	4.91950e-2
+GO:0045504	Dynein heavy chain binding	Molecular Function	1.961	1.32095e-2
+GO:0007219	Notch signaling pathway	Biological Process	1.214	9.41440e-3
+GO:0120035	Regulation of plasma membrane bounded cell projection organization	Biological Process	0.651	6.19756e-3
+GO:0070851	Growth factor receptor binding	Molecular Function	1.130	6.19756e-3
+GO:0032868	Response to insulin	Biological Process	1.158	6.19756e-3
+GO:0019905	Syntaxin binding	Molecular Function	1.756	2.55335e-2
+GO:0032012	Regulation of ARF protein signal transduction	Biological Process	1.364	4.19956e-2
+GO:0035259	Nuclear glucocorticoid receptor binding	Molecular Function	1.272	9.41440e-3
+GO:0005834	Heterotrimeric G-protein complex	Cellular Component	0.421	6.19756e-3
+GO:0016758	Hexosyltransferase activity	Molecular Function	0.561	6.19756e-3
+GO:0005003	Ephrin receptor activity	Molecular Function	1.830	2.83444e-2
+GO:0098966	Perisynaptic extracellular matrix	Cellular Component	1.101	6.19756e-3
+GO:0002687	Positive regulation of leukocyte migration	Biological Process	1.831	6.19756e-3
+GO:2000026	Regulation of multicellular organismal development	Biological Process	0.789	2.55335e-2
+GO:0009181	Purine ribonucleoside diphosphate catabolic process	Biological Process	0.629	6.19756e-3
+GO:0051896	Regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	Biological Process	0.530	3.66115e-2
+GO:0051015	Actin filament binding	Molecular Function	1.008	3.66115e-2
+GO:0015373	Monoatomic anion:sodium symporter activity	Molecular Function	1.785	4.70720e-2
+GO:0008023	Transcription elongation factor complex	Cellular Component	0.598	4.45706e-2
+GO:0046031	ADP metabolic process	Biological Process	0.745	6.19756e-3
+GO:0004222	Metalloendopeptidase activity	Molecular Function	1.532	6.19756e-3
+GO:0030425	Dendrite	Cellular Component	1.077	6.19756e-3
+GO:0008375	Acetylglucosaminyltransferase activity	Molecular Function	1.456	9.41440e-3
+GO:0016052	Carbohydrate catabolic process	Biological Process	0.205	9.41440e-3
+GO:0030198	Extracellular matrix organization	Biological Process	1.396	6.19756e-3
+GO:0006638	Neutral lipid metabolic process	Biological Process	1.727	6.19756e-3
+GO:0005178	Integrin binding	Molecular Function	1.221	6.19756e-3
+GO:0022848	Acetylcholine-gated monoatomic cation-selective channel activity	Molecular Function	2.739	6.19756e-3
+GO:0031985	Golgi cisterna	Cellular Component	0.705	9.41440e-3
+GO:0031406	Carboxylic acid binding	Molecular Function	0.885	4.91950e-2
+GO:0007267	Cell-cell signaling	Biological Process	1.253	4.91950e-2
+GO:0031683	G-protein beta/gamma-subunit complex binding	Molecular Function	0.631	9.41440e-3
+GO:0016706	2-oxoglutarate-dependent dioxygenase activity	Molecular Function	1.327	3.92786e-2
+GO:0033218	Amide binding	Molecular Function	0.997	6.19756e-3
+GO:0015271	Outward rectifier potassium channel activity	Molecular Function	1.939	6.19756e-3
+GO:0051240	Positive regulation of multicellular organismal process	Biological Process	0.733	6.19756e-3
+GO:0048018	Receptor ligand activity	Molecular Function	0.606	6.19756e-3
+GO:0046835	Carbohydrate phosphorylation	Biological Process	1.147	6.19756e-3
+GO:0009154	Purine ribonucleotide catabolic process	Biological Process	0.252	9.41440e-3
+GO:0002685	Regulation of leukocyte migration	Biological Process	1.612	6.19756e-3
+GO:0009179	Purine ribonucleoside diphosphate metabolic process	Biological Process	0.799	6.19756e-3
+GO:0072534	Perineuronal net	Cellular Component	1.069	6.19756e-3
+GO:0007165	Signal transduction	Biological Process	0.961	3.92786e-2
+GO:0071376	Cellular response to corticotropin-releasing hormone stimulus	Biological Process	1.796	9.41440e-3
+GO:0002181	Cytoplasmic translation	Biological Process	0.621	6.19756e-3
+GO:0007215	Glutamate receptor signaling pathway	Biological Process	2.994	6.19756e-3
+GO:0008146	Sulfotransferase activity	Molecular Function	1.159	6.19756e-3
+GO:0032587	Ruffle membrane	Cellular Component	1.151	9.41440e-3
+GO:0030246	Carbohydrate binding	Molecular Function	0.826	1.32095e-2
+GO:0098887	Neurotransmitter receptor transport, endosome to postsynaptic membrane	Biological Process	0.640	3.92786e-2
+GO:0048545	Response to steroid hormone	Biological Process	0.876	3.66115e-2
+GO:0040012	Regulation of locomotion	Biological Process	1.183	6.19756e-3
+GO:0051213	Dioxygenase activity	Molecular Function	1.313	2.83444e-2
+GO:0016779	Nucleotidyltransferase activity	Molecular Function	0.285	6.19756e-3
+GO:0005905	Clathrin-coated pit	Cellular Component	1.193	6.19756e-3
+GO:0038023	Signaling receptor activity	Molecular Function	1.415	9.41440e-3
+GO:0001525	Angiogenesis	Biological Process	0.936	4.70720e-2
+GO:0045121	Membrane raft	Cellular Component	0.635	2.25945e-2
+GO:0007188	Adenylate cyclase-modulating G protein-coupled receptor signaling pathway	Biological Process	1.787	6.19756e-3
+GO:0043434	Response to peptide hormone	Biological Process	0.834	1.32095e-2
+GO:0007213	G protein-coupled acetylcholine receptor signaling pathway	Biological Process	1.672	9.41440e-3
+GO:0006357	Regulation of transcription by RNA polymerase II	Biological Process	0.416	4.45706e-2
+GO:0003714	Transcription corepressor activity	Molecular Function	0.505	1.96523e-2
+GO:2000147	Positive regulation of cell motility	Biological Process	1.137	1.64409e-2
+GO:0042578	Phosphoric ester hydrolase activity	Molecular Function	0.341	9.41440e-3
+GO:0072330	Monocarboxylic acid biosynthetic process	Biological Process	0.334	4.45706e-2
+GO:0004620	Phospholipase activity	Molecular Function	0.937	6.19756e-3
+GO:0030546	Signaling receptor activator activity	Molecular Function	0.583	6.19756e-3
+GO:0008194	UDP-glycosyltransferase activity	Molecular Function	0.978	6.19756e-3
+GO:1901879	Regulation of protein depolymerization	Biological Process	0.752	1.96523e-2
+GO:0002052	Positive regulation of neuroblast proliferation	Biological Process	0.213	6.19756e-3
+GO:0043005	Neuron projection	Cellular Component	1.036	9.41440e-3
+GO:0016500	Protein-hormone receptor activity	Molecular Function	2.754	6.19756e-3
+GO:0016525	Negative regulation of angiogenesis	Biological Process	1.627	9.41440e-3
+GO:0003008	System process	Biological Process	1.303	6.19756e-3
+GO:0017154	Semaphorin receptor activity	Molecular Function	2.486	2.25945e-2
+GO:0016298	Lipase activity	Molecular Function	0.861	6.19756e-3
+GO:0007186	G protein-coupled receptor signaling pathway	Biological Process	1.215	6.19756e-3
+GO:0033993	Response to lipid	Biological Process	0.792	3.66115e-2
+GO:0006909	Phagocytosis	Biological Process	0.693	6.19756e-3
+GO:0050807	Regulation of synapse organization	Biological Process	1.373	6.19756e-3
+GO:2000145	Regulation of cell motility	Biological Process	1.177	9.41440e-3
+GO:0019318	Hexose metabolic process	Biological Process	0.711	6.19756e-3
+GO:0003712	Transcription coregulator activity	Molecular Function	0.833	6.19756e-3
+GO:0014032	Neural crest cell development	Biological Process	1.546	6.19756e-3
+GO:0010508	Positive regulation of autophagy	Biological Process	0.608	1.32095e-2
+GO:0031123	RNA 3'-end processing	Biological Process	0.440	1.32095e-2
+GO:0098858	Actin-based cell projection	Cellular Component	1.319	9.41440e-3
+GO:1990504	Dense core granule exocytosis	Biological Process	0.746	6.19756e-3
+GO:0045017	Glycerolipid biosynthetic process	Biological Process	0.637	6.19756e-3
+GO:0051209	Release of sequestered calcium ion into cytosol	Biological Process	1.642	6.19756e-3
+GO:0008217	Regulation of blood pressure	Biological Process	1.376	6.19756e-3
+GO:1990806	Ligand-gated ion channel signaling pathway	Biological Process	1.614	2.25945e-2
+GO:0051259	Protein complex oligomerization	Biological Process	0.840	6.19756e-3
+GO:0031248	Protein acetyltransferase complex	Cellular Component	0.940	6.19756e-3
+GO:0050982	Detection of mechanical stimulus	Biological Process	0.939	9.41440e-3
+GO:0008015	Blood circulation	Biological Process	1.313	6.19756e-3
+GO:1901700	Response to oxygen-containing compound	Biological Process	0.559	6.19756e-3
+GO:0099637	Neurotransmitter receptor transport	Biological Process	0.781	2.55335e-2
+GO:0120025	Plasma membrane bounded cell projection	Cellular Component	0.761	2.83444e-2
+GO:0030215	Semaphorin receptor binding	Molecular Function	1.963	6.19756e-3
+GO:0048514	Blood vessel morphogenesis	Biological Process	0.863	2.25945e-2
+GO:0005245	Voltage-gated calcium channel activity	Molecular Function	2.336	6.19756e-3
+GO:0099535	Synapse-associated extracellular matrix	Cellular Component	1.054	6.19756e-3
+GO:0070085	Glycosylation	Biological Process	0.401	9.41440e-3
+GO:0009725	Response to hormone	Biological Process	0.962	3.92786e-2
+GO:0051282	Regulation of sequestering of calcium ion	Biological Process	1.238	6.19756e-3
+GO:0032454	Histone H3K9 demethylase activity	Molecular Function	0.769	3.41455e-2
+GO:0070160	Tight junction	Cellular Component	0.663	6.19756e-3
+GO:0072526	Pyridine-containing compound catabolic process	Biological Process	0.699	6.19756e-3
+GO:1901698	Response to nitrogen compound	Biological Process	0.490	9.41440e-3
+GO:0045165	Cell fate commitment	Biological Process	0.721	6.19756e-3
+GO:0031623	Receptor internalization	Biological Process	1.950	6.19756e-3
+GO:0031346	Positive regulation of cell projection organization	Biological Process	1.015	6.19756e-3
+GO:0006024	Glycosaminoglycan biosynthetic process	Biological Process	2.380	2.25945e-2
+GO:1903510	Mucopolysaccharide metabolic process	Biological Process	1.973	6.19756e-3
+GO:0032252	Secretory granule localization	Biological Process	0.838	1.64409e-2
+GO:0071695	Anatomical structure maturation	Biological Process	1.141	2.55335e-2
+GO:0044309	Neuron spine	Cellular Component	1.670	6.19756e-3
+GO:0050803	Regulation of synapse structure or activity	Biological Process	1.639	6.19756e-3
+GO:1902679	Negative regulation of RNA biosynthetic process	Biological Process	0.361	4.70720e-2
+GO:0051130	Positive regulation of cellular component organization	Biological Process	0.586	6.19756e-3
+GO:0019364	Pyridine nucleotide catabolic process	Biological Process	0.688	6.19756e-3
+GO:0097746	Blood vessel diameter maintenance	Biological Process	1.743	6.19756e-3
+GO:0048864	Stem cell development	Biological Process	1.516	6.19756e-3
+GO:0048562	Embryonic organ morphogenesis	Biological Process	1.085	9.41440e-3
+GO:0032956	Regulation of actin cytoskeleton organization	Biological Process	0.422	4.19956e-2
+GO:1905145	Cellular response to acetylcholine	Biological Process	2.115	6.19756e-3
+GO:0050953	Sensory perception of light stimulus	Biological Process	0.623	9.41440e-3
+GO:0003254	Regulation of membrane depolarization	Biological Process	1.318	6.19756e-3
+GO:0071870	Cellular response to catecholamine stimulus	Biological Process	1.226	9.41440e-3
+GO:0060090	Molecular adaptor activity	Molecular Function	0.491	9.41440e-3
+GO:0009144	Purine nucleoside triphosphate metabolic process	Biological Process	0.398	9.41440e-3
+GO:0005343	Organic acid:sodium symporter activity	Molecular Function	1.892	9.41440e-3
+GO:0045944	Positive regulation of transcription by RNA polymerase II	Biological Process	0.686	3.92786e-2
+GO:0030111	Regulation of Wnt signaling pathway	Biological Process	0.670	1.64409e-2
+GO:0072524	Pyridine-containing compound metabolic process	Biological Process	0.502	6.19756e-3
+GO:0043401	Steroid hormone receptor signaling pathway	Biological Process	1.223	1.32095e-2
+GO:0031344	Regulation of cell projection organization	Biological Process	0.672	6.19756e-3
+GO:0006022	Aminoglycan metabolic process	Biological Process	1.541	6.19756e-3
+GO:0098802	Plasma membrane signaling receptor complex	Cellular Component	1.410	6.19756e-3
+GO:0048762	Mesenchymal cell differentiation	Biological Process	1.244	6.19756e-3
+GO:0032879	Regulation of localization	Biological Process	0.367	2.25945e-2
+GO:0001667	Ameboidal-type cell migration	Biological Process	1.267	6.19756e-3
+GO:0110053	Regulation of actin filament organization	Biological Process	0.572	6.19756e-3
+GO:0005795	Golgi stack	Cellular Component	1.185	6.19756e-3
+GO:0070887	Cellular response to chemical stimulus	Biological Process	0.655	3.66115e-2
+GO:0019362	Pyridine nucleotide metabolic process	Biological Process	0.482	9.41440e-3
+GO:0098877	Neurotransmitter receptor transport to plasma membrane	Biological Process	0.600	4.45706e-2
+GO:0051480	Regulation of cytosolic calcium ion concentration	Biological Process	1.972	6.19756e-3
+GO:0045892	Negative regulation of DNA-templated transcription	Biological Process	0.359	4.91950e-2
+GO:0046496	Nicotinamide nucleotide metabolic process	Biological Process	0.482	9.41440e-3
+GO:0031519	PcG protein complex	Cellular Component	1.268	6.19756e-3
+GO:0071868	Cellular response to monoamine stimulus	Biological Process	1.220	9.41440e-3
+GO:0004435	Phosphatidylinositol phospholipase C activity	Molecular Function	1.992	6.19756e-3
+GO:1901342	Regulation of vasculature development	Biological Process	1.304	3.66115e-2
+GO:0008286	Insulin receptor signaling pathway	Biological Process	1.682	6.19756e-3
+GO:0001817	Regulation of cytokine production	Biological Process	1.021	6.19756e-3
+GO:0034212	Peptide N-acetyltransferase activity	Molecular Function	1.961	6.19756e-3
+GO:0031594	Neuromuscular junction	Cellular Component	1.682	9.41440e-3
+GO:0016592	Mediator complex	Cellular Component	1.055	6.19756e-3
+GO:0005416	Amino acid:monoatomic cation symporter activity	Molecular Function	1.710	1.96523e-2
+GO:0000407	Phagophore assembly site	Cellular Component	0.533	4.91950e-2
+GO:0045765	Regulation of angiogenesis	Biological Process	1.363	3.41455e-2
+GO:0009267	Cellular response to starvation	Biological Process	0.839	4.19956e-2
+GO:0097038	Perinuclear endoplasmic reticulum	Cellular Component	0.715	2.55335e-2
+GO:0045211	Postsynaptic membrane	Cellular Component	1.886	1.96523e-2
+GO:0008361	Regulation of cell size	Biological Process	1.306	1.96523e-2
+GO:0140030	Modification-dependent protein binding	Molecular Function	0.260	9.41440e-3
+GO:0042593	Glucose homeostasis	Biological Process	1.442	6.19756e-3
+GO:0043197	Dendritic spine	Cellular Component	1.690	9.41440e-3
+GO:0005793	Endoplasmic reticulum-Golgi intermediate compartment	Cellular Component	0.818	6.19756e-3
+GO:1905368	Peptidase complex	Cellular Component	0.237	6.19756e-3
+GO:0099529	Neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential	Molecular Function	2.587	6.19756e-3
+GO:0048583	Regulation of response to stimulus	Biological Process	0.441	6.19756e-3
+GO:0030334	Regulation of cell migration	Biological Process	1.131	9.41440e-3
+GO:0006195	Purine nucleotide catabolic process	Biological Process	0.261	6.19756e-3
+GO:0048029	Monosaccharide binding	Molecular Function	1.493	6.19756e-3
+GO:0003073	Regulation of systemic arterial blood pressure	Biological Process	1.423	6.19756e-3
+GO:0005741	Mitochondrial outer membrane	Cellular Component	0.862	6.19756e-3
+GO:0032271	Regulation of protein polymerization	Biological Process	0.677	9.41440e-3
+GO:0006949	Syncytium formation	Biological Process	1.613	1.32095e-2
+GO:0004935	Adrenergic receptor activity	Molecular Function	2.242	6.19756e-3
+GO:0046467	Membrane lipid biosynthetic process	Biological Process	0.458	1.96523e-2
+GO:0005539	Glycosaminoglycan binding	Molecular Function	1.206	6.19756e-3
+GO:0031490	Chromatin DNA binding	Molecular Function	1.700	9.41440e-3
+GO:0005891	Voltage-gated calcium channel complex	Cellular Component	2.524	9.41440e-3
+GO:0034762	Regulation of transmembrane transport	Biological Process	0.619	6.19756e-3
+GO:0030659	Cytoplasmic vesicle membrane	Cellular Component	0.218	6.19756e-3
+GO:0015355	Secondary active monocarboxylate transmembrane transporter activity	Molecular Function	3.167	6.19756e-3
+GO:0140253	Cell-cell fusion	Biological Process	1.640	1.32095e-2
+GO:0010975	Regulation of neuron projection development	Biological Process	0.847	1.64409e-2
+GO:0005085	Guanyl-nucleotide exchange factor activity	Molecular Function	1.216	1.96523e-2
+GO:0050770	Regulation of axonogenesis	Biological Process	1.309	6.19756e-3
+GO:0008080	N-acetyltransferase activity	Molecular Function	1.757	6.19756e-3
+GO:0098796	Membrane protein complex	Cellular Component	0.691	1.64409e-2
+GO:0000151	Ubiquitin ligase complex	Cellular Component	0.254	6.19756e-3
+GO:0035239	Tube morphogenesis	Biological Process	1.164	2.25945e-2
+GO:0060284	Regulation of cell development	Biological Process	0.244	6.19756e-3
+GO:0030834	Regulation of actin filament depolymerization	Biological Process	0.654	9.41440e-3
+GO:0022603	Regulation of anatomical structure morphogenesis	Biological Process	1.078	6.19756e-3
+GO:0007601	Visual perception	Biological Process	0.628	6.19756e-3
+GO:0050920	Regulation of chemotaxis	Biological Process	1.614	6.19756e-3
+GO:1903350	Response to dopamine	Biological Process	1.201	6.19756e-3
+GO:0099525	Presynaptic dense core vesicle exocytosis	Biological Process	0.246	6.19756e-3
+GO:0071560	Cellular response to transforming growth factor beta stimulus	Biological Process	1.017	1.64409e-2
+GO:0006493	Protein O-linked glycosylation	Biological Process	0.690	4.70720e-2
+GO:1990869	Cellular response to chemokine	Biological Process	0.984	3.41455e-2
+GO:0038007	Netrin-activated signaling pathway	Biological Process	1.691	6.19756e-3
+GO:0034483	Heparan sulfate sulfotransferase activity	Molecular Function	3.402	6.19756e-3
+GO:0008305	Integrin complex	Cellular Component	0.910	2.55335e-2
+GO:0015378	Sodium:chloride symporter activity	Molecular Function	1.793	2.25945e-2
+GO:0019229	Regulation of vasoconstriction	Biological Process	1.632	1.32095e-2
+GO:0003044	Regulation of systemic arterial blood pressure mediated by a chemical signal	Biological Process	1.535	6.19756e-3
+GO:0071383	Cellular response to steroid hormone stimulus	Biological Process	0.885	3.41455e-2
+GO:0009261	Ribonucleotide catabolic process	Biological Process	0.262	6.19756e-3
+GO:0050793	Regulation of developmental process	Biological Process	0.703	9.41440e-3
+GO:0098794	Postsynapse	Cellular Component	1.541	6.19756e-3
+GO:0048729	Tissue morphogenesis	Biological Process	1.103	6.19756e-3
+GO:0031965	Nuclear membrane	Cellular Component	0.455	6.19756e-3
+GO:0030203	Glycosaminoglycan metabolic process	Biological Process	1.648	6.19756e-3
+GO:0030178	Negative regulation of Wnt signaling pathway	Biological Process	0.618	2.83444e-2
+GO:0016082	Synaptic vesicle priming	Biological Process	2.088	1.64409e-2
+GO:0010494	Cytoplasmic stress granule	Cellular Component	0.621	3.14368e-2
+GO:0042310	Vasoconstriction	Biological Process	1.762	6.19756e-3
+GO:0030832	Regulation of actin filament length	Biological Process	0.649	2.25945e-2
+GO:2000181	Negative regulation of blood vessel morphogenesis	Biological Process	1.576	9.41440e-3
+GO:0004629	Phospholipase C activity	Molecular Function	2.003	6.19756e-3
+GO:0033500	Carbohydrate homeostasis	Biological Process	1.490	6.19756e-3
+GO:0031461	Cullin-RING ubiquitin ligase complex	Cellular Component	0.524	6.19756e-3
+GO:0046488	Phosphatidylinositol metabolic process	Biological Process	0.374	6.19756e-3
+GO:0016459	Myosin complex	Cellular Component	1.348	4.19956e-2
+GO:0046513	Ceramide biosynthetic process	Biological Process	0.846	2.25945e-2
+GO:0005283	Amino acid:sodium symporter activity	Molecular Function	1.673	2.55335e-2
+GO:0070098	Chemokine-mediated signaling pathway	Biological Process	1.027	2.25945e-2
+GO:0031234	Extrinsic component of cytoplasmic side of plasma membrane	Cellular Component	0.414	1.64409e-2
+GO:0009134	Nucleoside diphosphate catabolic process	Biological Process	0.643	1.96523e-2
+GO:0098969	Neurotransmitter receptor transport to postsynaptic membrane	Biological Process	0.625	2.55335e-2
+GO:0002690	Positive regulation of leukocyte chemotaxis	Biological Process	1.728	6.19756e-3
+GO:0004175	Endopeptidase activity	Molecular Function	0.690	6.19756e-3
+GO:0036293	Response to decreased oxygen levels	Biological Process	1.132	6.19756e-3
+GO:0008328	Ionotropic glutamate receptor complex	Cellular Component	2.415	6.19756e-3
+GO:0046034	ATP metabolic process	Biological Process	0.586	9.41440e-3
+GO:0044272	Sulfur compound biosynthetic process	Biological Process	0.857	1.64409e-2
+GO:0000122	Negative regulation of transcription by RNA polymerase II	Biological Process	0.638	6.19756e-3
+GO:0008378	Galactosyltransferase activity	Molecular Function	1.414	2.25945e-2
+GO:0099094	Ligand-gated monoatomic cation channel activity	Molecular Function	1.500	4.45706e-2
+GO:0051093	Negative regulation of developmental process	Biological Process	1.443	2.25945e-2
+GO:0006641	Triglyceride metabolic process	Biological Process	2.147	2.25945e-2
+GO:0032869	Cellular response to insulin stimulus	Biological Process	1.586	6.19756e-3
+GO:0035235	Ionotropic glutamate receptor signaling pathway	Biological Process	1.328	1.96523e-2
+GO:0016407	Acetyltransferase activity	Molecular Function	1.066	1.32095e-2
+GO:0009636	Response to toxic substance	Biological Process	1.047	6.19756e-3
+GO:0005231	Excitatory extracellular ligand-gated monoatomic ion channel activity	Molecular Function	1.939	6.19756e-3
+GO:1905360	GTPase complex	Cellular Component	1.180	6.19756e-3
+GO:0046486	Glycerolipid metabolic process	Biological Process	0.896	6.19756e-3
+GO:0040017	Positive regulation of locomotion	Biological Process	1.148	1.96523e-2
+GO:0007043	Cell-cell junction assembly	Biological Process	2.069	6.19756e-3
+GO:0008528	G protein-coupled peptide receptor activity	Molecular Function	1.982	6.19756e-3
+GO:0009132	Nucleoside diphosphate metabolic process	Biological Process	0.732	6.19756e-3
+GO:0060078	Regulation of postsynaptic membrane potential	Biological Process	2.048	6.19756e-3
+GO:0008276	Protein methyltransferase activity	Molecular Function	1.002	3.92786e-2
+GO:0002688	Regulation of leukocyte chemotaxis	Biological Process	1.611	6.19756e-3
+GO:0006816	Calcium ion transport	Biological Process	1.476	9.41440e-3
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	Molecular Function	0.677	6.19756e-3
+GO:0019200	Carbohydrate kinase activity	Molecular Function	1.367	6.19756e-3
+GO:0043062	Extracellular structure organization	Biological Process	1.400	6.19756e-3
+GO:0046032	ADP catabolic process	Biological Process	0.640	6.19756e-3
+GO:0030426	Growth cone	Cellular Component	1.634	9.41440e-3
+GO:0007193	Adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway	Biological Process	1.340	1.64409e-2
+GO:0008376	Acetylgalactosaminyltransferase activity	Molecular Function	1.549	1.32095e-2
+GO:0000145	Exocyst	Cellular Component	0.728	2.25945e-2
+GO:0022824	Transmitter-gated monoatomic ion channel activity	Molecular Function	2.393	6.19756e-3
+GO:0006639	Acylglycerol metabolic process	Biological Process	1.739	6.19756e-3
+GO:0007218	Neuropeptide signaling pathway	Biological Process	0.793	6.19756e-3
+GO:0019904	Protein domain specific binding	Molecular Function	0.348	9.41440e-3
+GO:0030551	Cyclic nucleotide binding	Molecular Function	0.811	2.55335e-2
+GO:0098588	Bounding membrane of organelle	Cellular Component	0.266	1.64409e-2
+GO:0042054	Histone methyltransferase activity	Molecular Function	1.246	6.19756e-3
+GO:0034704	Calcium channel complex	Cellular Component	2.195	4.70720e-2
+GO:0009986	Cell surface	Cellular Component	0.889	6.19756e-3
+GO:0016757	Glycosyltransferase activity	Molecular Function	0.259	6.19756e-3
+GO:0005581	Collagen trimer	Cellular Component	0.673	6.19756e-3
+GO:0001755	Neural crest cell migration	Biological Process	1.599	6.19756e-3
+GO:0016782	Transferase activity, transferring sulphur-containing groups	Molecular Function	0.786	6.19756e-3
+GO:0033017	Sarcoplasmic reticulum membrane	Cellular Component	2.185	2.55335e-2
+GO:0003013	Circulatory system process	Biological Process	1.254	6.19756e-3
+GO:0009205	Purine ribonucleoside triphosphate metabolic process	Biological Process	0.445	9.41440e-3
+GO:0046332	SMAD binding	Molecular Function	0.643	9.41440e-3
+GO:0005102	Signaling receptor binding	Molecular Function	0.661	2.55335e-2
+GO:0016051	Carbohydrate biosynthetic process	Biological Process	0.628	1.32095e-2
+GO:0051693	Actin filament capping	Biological Process	0.718	1.32095e-2
+GO:0006939	Smooth muscle contraction	Biological Process	0.684	6.19756e-3
+GO:0120032	Regulation of plasma membrane bounded cell projection assembly	Biological Process	0.309	6.19756e-3
+GO:0001653	Peptide receptor activity	Molecular Function	1.658	6.19756e-3
+GO:0061157	MRNA destabilization	Biological Process	1.031	2.25945e-2
+GO:0007266	Rho protein signal transduction	Biological Process	0.630	1.64409e-2
+GO:0001678	Intracellular glucose homeostasis	Biological Process	1.392	6.19756e-3
+GO:0005227	Calcium-activated cation channel activity	Molecular Function	2.359	1.32095e-2
+GO:0036464	Cytoplasmic ribonucleoprotein granule	Cellular Component	0.658	3.92786e-2
+GO:0060326	Cell chemotaxis	Biological Process	0.797	3.41455e-2
+GO:0098636	Protein complex involved in cell adhesion	Cellular Component	0.899	1.96523e-2
+GO:0051239	Regulation of multicellular organismal process	Biological Process	0.783	6.19756e-3
+GO:0042127	Regulation of cell population proliferation	Biological Process	0.563	3.41455e-2
+GO:0002684	Positive regulation of immune system process	Biological Process	2.259	9.41440e-3
+GO:0010638	Positive regulation of organelle organization	Biological Process	0.403	6.19756e-3
+GO:0030674	Protein-macromolecule adaptor activity	Molecular Function	0.492	6.19756e-3
+GO:0097553	Calcium ion transmembrane import into cytosol	Biological Process	2.064	1.32095e-2
+GO:0043083	Synaptic cleft	Cellular Component	0.332	1.32095e-2
+GO:0071375	Cellular response to peptide hormone stimulus	Biological Process	1.123	9.41440e-3
+GO:0006006	Glucose metabolic process	Biological Process	1.475	6.19756e-3
+GO:0007189	Adenylate cyclase-activating G protein-coupled receptor signaling pathway	Biological Process	1.956	6.19756e-3
+GO:0005125	Cytokine activity	Molecular Function	0.489	1.64409e-2
+GO:0045197	Establishment or maintenance of epithelial cell apical/basal polarity	Biological Process	0.831	9.41440e-3
+GO:0045499	Chemorepellent activity	Molecular Function	1.931	6.19756e-3
+GO:0007214	Gamma-aminobutyric acid signaling pathway	Biological Process	1.756	6.19756e-3
+GO:0043435	Response to corticotropin-releasing hormone	Biological Process	1.793	9.41440e-3
+GO:0032813	Tumor necrosis factor receptor superfamily binding	Molecular Function	1.134	6.19756e-3
+GO:0048469	Cell maturation	Biological Process	0.982	9.41440e-3
+GO:0009605	Response to external stimulus	Biological Process	0.936	1.32095e-2
+GO:0042277	Peptide binding	Molecular Function	0.630	6.19756e-3
+GO:0032259	Methylation	Biological Process	0.215	6.19756e-3
+GO:0044089	Positive regulation of cellular component biogenesis	Biological Process	0.660	9.41440e-3
+GO:0008195	Phosphatidate phosphatase activity	Molecular Function	2.635	6.19756e-3
+GO:0001726	Ruffle	Cellular Component	1.853	2.83444e-2
+GO:1901880	Negative regulation of protein depolymerization	Biological Process	0.732	4.45706e-2
+GO:0009101	Glycoprotein biosynthetic process	Biological Process	0.666	1.96523e-2
+GO:0031503	Protein-containing complex localization	Biological Process	0.262	2.83444e-2
+GO:0017080	Sodium channel regulator activity	Molecular Function	2.013	9.41440e-3
+GO:0048015	Phosphatidylinositol-mediated signaling	Biological Process	1.492	9.41440e-3
+GO:0008270	Zinc ion binding	Molecular Function	0.497	6.19756e-3
+GO:0099565	Chemical synaptic transmission, postsynaptic	Biological Process	1.899	2.55335e-2
+GO:0015695	Organic cation transport	Biological Process	0.545	6.19756e-3
+GO:0046328	Regulation of JNK cascade	Biological Process	1.469	1.64409e-2
+GO:0000139	Golgi membrane	Cellular Component	0.484	6.19756e-3
+GO:0007212	G protein-coupled dopamine receptor signaling pathway	Biological Process	0.809	4.91950e-2
+GO:0006633	Fatty acid biosynthetic process	Biological Process	0.458	3.66115e-2
+GO:1903540	Establishment of protein localization to postsynaptic membrane	Biological Process	0.626	2.55335e-2
+GO:0042577	Lipid phosphatase activity	Molecular Function	2.413	1.32095e-2
+GO:0000768	Syncytium formation by plasma membrane fusion	Biological Process	1.650	1.32095e-2
+GO:0014033	Neural crest cell differentiation	Biological Process	1.489	6.19756e-3
+GO:0030545	Signaling receptor regulator activity	Molecular Function	0.555	6.19756e-3
+GO:0045597	Positive regulation of cell differentiation	Biological Process	0.358	6.19756e-3
+GO:0071875	Adrenergic receptor signaling pathway	Biological Process	1.391	1.64409e-2
+GO:0051260	Protein homooligomerization	Biological Process	1.126	6.19756e-3
+GO:0009199	Ribonucleoside triphosphate metabolic process	Biological Process	0.342	1.96523e-2
+GO:0060170	Ciliary membrane	Cellular Component	0.525	6.19756e-3
+GO:1901701	Cellular response to oxygen-containing compound	Biological Process	0.683	6.19756e-3
+GO:0035150	Regulation of tube size	Biological Process	1.756	6.19756e-3
+GO:0015718	Monocarboxylic acid transport	Biological Process	1.091	4.70720e-2
+GO:0016020	Membrane	Cellular Component	0.505	3.41455e-2
+GO:0030166	Proteoglycan biosynthetic process	Biological Process	1.846	1.64409e-2
+GO:0031047	Regulatory ncRNA-mediated gene silencing	Biological Process	0.998	6.19756e-3
+GO:0071396	Cellular response to lipid	Biological Process	0.800	9.41440e-3
+GO:0098857	Membrane microdomain	Cellular Component	0.630	2.25945e-2
+GO:0035250	UDP-galactosyltransferase activity	Molecular Function	1.589	6.19756e-3
+GO:0097120	Receptor localization to synapse	Biological Process	0.615	9.41440e-3
+GO:0045595	Regulation of cell differentiation	Biological Process	0.537	6.19756e-3
+GO:0043254	Regulation of protein-containing complex assembly	Biological Process	0.578	6.19756e-3
+GO:0097447	Dendritic tree	Cellular Component	1.077	6.19756e-3
+GO:0050906	Detection of stimulus involved in sensory perception	Biological Process	1.521	6.19756e-3
+GO:0015012	Heparan sulfate proteoglycan biosynthetic process	Biological Process	2.388	2.55335e-2
+GO:0051283	Negative regulation of sequestering of calcium ion	Biological Process	1.580	6.19756e-3
+GO:1901699	Cellular response to nitrogen compound	Biological Process	0.701	9.41440e-3
+GO:0042221	Response to chemical	Biological Process	0.794	6.19756e-3
+GO:0009247	Glycolipid biosynthetic process	Biological Process	0.505	3.66115e-2
+GO:0008064	Regulation of actin polymerization or depolymerization	Biological Process	0.715	1.32095e-2
+GO:0051962	Positive regulation of nervous system development	Biological Process	1.134	6.19756e-3
+GO:0050779	RNA destabilization	Biological Process	1.012	2.25945e-2
+GO:0032253	Dense core granule localization	Biological Process	0.795	9.41440e-3
+GO:0022839	Monoatomic ion-gated channel activity	Molecular Function	2.128	6.19756e-3
+GO:0032580	Golgi cisterna membrane	Cellular Component	0.892	6.19756e-3
+GO:0043177	Organic acid binding	Molecular Function	0.944	9.41440e-3
+GO:0051156	Glucose 6-phosphate metabolic process	Biological Process	2.123	1.32095e-2
+GO:0005798	Golgi-associated vesicle	Cellular Component	0.439	6.19756e-3
+GO:0070588	Calcium ion transmembrane transport	Biological Process	1.514	9.41440e-3
+GO:0016747	Acyltransferase activity, transferring groups other than amino-acyl groups	Molecular Function	0.317	6.19756e-3
+GO:0003205	Cardiac chamber development	Biological Process	0.411	6.19756e-3
+GO:0010001	Glial cell differentiation	Biological Process	0.341	1.32095e-2
+GO:0005923	Bicellular tight junction	Cellular Component	0.719	6.19756e-3
+GO:0005042	Netrin receptor activity	Molecular Function	1.837	6.19756e-3
+GO:0017124	SH3 domain binding	Molecular Function	0.692	6.19756e-3
+GO:1904315	Transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	Molecular Function	2.600	6.19756e-3
+GO:0032453	Histone H3K4 demethylase activity	Molecular Function	1.592	9.41440e-3
+GO:0019213	Deacetylase activity	Molecular Function	2.070	6.19756e-3
+GO:0001216	DNA-binding transcription activator activity	Molecular Function	0.688	6.19756e-3
+GO:0070461	SAGA-type complex	Cellular Component	1.980	1.32095e-2
+GO:0090497	Mesenchymal cell migration	Biological Process	1.611	6.19756e-3
+GO:0007156	Homophilic cell adhesion via plasma membrane adhesion molecules	Biological Process	0.587	1.96523e-2
+GO:0051960	Regulation of nervous system development	Biological Process	0.845	1.64409e-2
+GO:0019867	Outer membrane	Cellular Component	0.863	6.19756e-3
+GO:0006023	Aminoglycan biosynthetic process	Biological Process	2.582	6.19756e-3
+GO:0030212	Hyaluronan metabolic process	Biological Process	1.734	6.19756e-3
+GO:0003707	Nuclear steroid receptor activity	Molecular Function	1.238	9.41440e-3
+GO:0006979	Response to oxidative stress	Biological Process	0.949	6.19756e-3
+GO:0098878	Neurotransmitter receptor complex	Cellular Component	2.630	2.83444e-2
+GO:0050877	Nervous system process	Biological Process	1.392	6.19756e-3
+GO:0005242	Inward rectifier potassium channel activity	Molecular Function	1.914	9.41440e-3
+GO:0035296	Regulation of tube diameter	Biological Process	1.743	6.19756e-3
+GO:0048259	Regulation of receptor-mediated endocytosis	Biological Process	0.341	3.92786e-2
+GO:0005267	Potassium channel activity	Molecular Function	1.370	2.83444e-2
+GO:0048863	Stem cell differentiation	Biological Process	1.105	6.19756e-3
+GO:0030312	External encapsulating structure	Cellular Component	0.868	6.19756e-3
+GO:0008237	Metallopeptidase activity	Molecular Function	0.899	6.19756e-3
+GO:1905144	Response to acetylcholine	Biological Process	2.161	6.19756e-3
+GO:0071869	Response to catecholamine	Biological Process	1.200	9.41440e-3
+GO:0060089	Molecular transducer activity	Molecular Function	1.415	9.41440e-3
+GO:0098978	Glutamatergic synapse	Cellular Component	0.466	4.70720e-2
+GO:1901343	Negative regulation of vasculature development	Biological Process	1.519	9.41440e-3
+GO:0051606	Detection of stimulus	Biological Process	0.780	6.19756e-3
+GO:0072523	Purine-containing compound catabolic process	Biological Process	0.222	9.41440e-3
+GO:0007154	Cell communication	Biological Process	1.066	3.41455e-2
+GO:0032501	Multicellular organismal process	Biological Process	0.762	1.64409e-2
+GO:0007179	Transforming growth factor beta receptor signaling pathway	Biological Process	1.080	6.19756e-3
+GO:0005996	Monosaccharide metabolic process	Biological Process	0.648	6.19756e-3
+GO:0060491	Regulation of cell projection assembly	Biological Process	0.339	6.19756e-3
+GO:0007204	Positive regulation of cytosolic calcium ion concentration	Biological Process	1.292	6.19756e-3
+GO:0044331	Cell-cell adhesion mediated by cadherin	Biological Process	2.150	6.19756e-3
+GO:0022835	Transmitter-gated channel activity	Molecular Function	2.393	6.19756e-3
+GO:0140056	Organelle localization by membrane tethering	Biological Process	1.465	3.66115e-2
+GO:0004888	Transmembrane signaling receptor activity	Molecular Function	1.435	6.19756e-3
+GO:0042594	Response to starvation	Biological Process	0.767	3.66115e-2
+GO:0006650	Glycerophospholipid metabolic process	Biological Process	0.405	6.19756e-3
+GO:0001666	Response to hypoxia	Biological Process	1.142	6.19756e-3
+GO:0005769	Early endosome	Cellular Component	0.477	6.19756e-3
+GO:0006096	Glycolytic process	Biological Process	0.647	6.19756e-3
+GO:1905369	Endopeptidase complex	Cellular Component	0.408	6.19756e-3
+GO:0007229	Integrin-mediated signaling pathway	Biological Process	1.342	9.41440e-3
+GO:0005794	Golgi apparatus	Cellular Component	0.336	2.55335e-2
+GO:0090066	Regulation of anatomical structure size	Biological Process	0.970	6.19756e-3
+GO:0015812	Gamma-aminobutyric acid transport	Biological Process	2.624	9.41440e-3
+GO:0036477	Somatodendritic compartment	Cellular Component	0.856	1.64409e-2
+GO:0098926	Postsynaptic signal transduction	Biological Process	1.988	6.19756e-3
+GO:0048584	Positive regulation of response to stimulus	Biological Process	0.807	6.19756e-3
+GO:0061245	Establishment or maintenance of bipolar cell polarity	Biological Process	0.824	9.41440e-3
+GO:0030335	Positive regulation of cell migration	Biological Process	1.125	9.41440e-3
+GO:0071867	Response to monoamine	Biological Process	1.196	9.41440e-3
+GO:0034765	Regulation of monoatomic ion transmembrane transport	Biological Process	0.696	9.41440e-3
+GO:0045664	Regulation of neuron differentiation	Biological Process	0.244	6.19756e-3
+GO:0009141	Nucleoside triphosphate metabolic process	Biological Process	0.247	1.64409e-2
+GO:0005315	Phosphate transmembrane transporter activity	Molecular Function	1.015	9.41440e-3
+GO:0009166	Nucleotide catabolic process	Biological Process	0.269	6.19756e-3
+GO:0048609	Multicellular organismal reproductive process	Biological Process	1.799	9.41440e-3
+GO:0051302	Regulation of cell division	Biological Process	0.878	6.19756e-3
+GO:0009191	Ribonucleoside diphosphate catabolic process	Biological Process	0.663	6.19756e-3
+GO:0031593	Polyubiquitin modification-dependent protein binding	Molecular Function	0.512	6.19756e-3
+GO:0070482	Response to oxygen levels	Biological Process	1.143	6.19756e-3
+GO:0008360	Regulation of cell shape	Biological Process	1.312	6.19756e-3
+GO:0008083	Growth factor activity	Molecular Function	0.891	6.19756e-3
+GO:0016339	Calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	Biological Process	2.216	6.19756e-3
+GO:0032272	Negative regulation of protein polymerization	Biological Process	0.707	6.19756e-3
+GO:0009895	Negative regulation of catabolic process	Biological Process	0.265	6.19756e-3
+GO:0043473	Pigmentation	Biological Process	0.752	6.19756e-3
+GO:0031114	Regulation of microtubule depolymerization	Biological Process	1.513	6.19756e-3
+GO:0001664	G protein-coupled receptor binding	Molecular Function	0.615	6.19756e-3
+GO:0030837	Negative regulation of actin filament polymerization	Biological Process	0.713	6.19756e-3
+GO:0005540	Hyaluronic acid binding	Molecular Function	1.510	6.19756e-3
+GO:0043296	Apical junction complex	Cellular Component	0.497	6.19756e-3
+GO:0160215	Deacylase activity	Molecular Function	1.531	6.19756e-3
+GO:0030660	Golgi-associated vesicle membrane	Cellular Component	0.743	6.19756e-3
+GO:0097237	Cellular response to toxic substance	Biological Process	0.988	1.64409e-2
+GO:0095500	Acetylcholine receptor signaling pathway	Biological Process	2.162	6.19756e-3
+GO:0010976	Positive regulation of neuron projection development	Biological Process	1.058	3.66115e-2
+GO:0031012	Extracellular matrix	Cellular Component	0.869	6.19756e-3
+GO:0008081	Phosphoric diester hydrolase activity	Molecular Function	0.443	6.19756e-3
+GO:0098797	Plasma membrane protein complex	Cellular Component	1.117	2.25945e-2
+GO:0009566	Fertilization	Biological Process	1.443	4.91950e-2
+GO:0005161	Platelet-derived growth factor receptor binding	Molecular Function	1.046	6.19756e-3
+GO:0031968	Organelle outer membrane	Cellular Component	0.864	6.19756e-3
+GO:0014902	Myotube differentiation	Biological Process	1.518	6.19756e-3
+GO:0030835	Negative regulation of actin filament depolymerization	Biological Process	0.644	1.96523e-2
+GO:0022604	Regulation of cell morphogenesis	Biological Process	1.320	6.19756e-3
+GO:0043244	Regulation of protein-containing complex disassembly	Biological Process	0.776	6.19756e-3
+GO:1903351	Cellular response to dopamine	Biological Process	1.223	6.19756e-3
+GO:0050921	Positive regulation of chemotaxis	Biological Process	1.786	6.19756e-3
+GO:0048278	Vesicle docking	Biological Process	1.985	2.83444e-2
+GO:0043269	Regulation of monoatomic ion transport	Biological Process	0.854	6.19756e-3
